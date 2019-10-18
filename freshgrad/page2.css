@@ -1,0 +1,95 @@
+body
+{
+
+  margin:0;
+  padding:0;
+  -webkit-background-size:cover;
+  background-size:cover;
+  font-family:Tahoma,sans-serif;
+  background-repeat: no-repeat;
+}
+.logo{
+  background-color:#232523;
+ width:302px;
+ height:900px;
+}
+.menu{
+  color:white;
+  margin-left: 60px;
+}
+a{
+  text-decoration: none;
+  color: white;
+}
+h3{
+  margin-left: 55px;
+}
+a:hover{
+  background-color:  green;
+
+}
+.buttons {
+margin-left: 350px;
+margin-top: -890px;
+}
+input[type="button"]{
+
+padding: 13px 16px;
+background-color: white;
+color: #000000;
+border-radius: 20px;
+border: none;
+}
+input[type="button"]:hover{
+  background-color: green;
+  color: white;
+}
+.drop1{
+  margin-left: 80%;
+  margin-top: -3%;
+}
+.drop2{
+  margin-left: 90%;
+  margin-top: -3.3%;
+}
+.select1{
+  padding: 13px 16px;
+  background-color: green;
+  color: white;
+  border-radius: 10px;
+}
+.text{
+  margin-left: 25%;
+}
+.buttons{
+
+  background-color: white;
+}
+.buttons1{
+  margin-left: 29%;
+  margin-top: 3%;
+}
+.buttons2{
+  margin-left: 49%;
+  margin-top: -3.4%;
+}
+.buttons3{
+  margin-left: 72.3%;
+  margin-top: -3.3%;
+}
+button{
+    padding: 13px 86px;
+    background-color: white;
+}
+.textbox{
+  margin-left: 29%;
+  margin-top: 2%;
+}
+.show{
+  margin-left: 80%;
+  margin-top: -3%;
+}
+.drop4{
+  margin-left: 84%;
+  margin-top: -5%;
+}
